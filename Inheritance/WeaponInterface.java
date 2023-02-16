@@ -1,3 +1,5 @@
+package Inheritance;
+
 
 /**
  * Methods for all weapons

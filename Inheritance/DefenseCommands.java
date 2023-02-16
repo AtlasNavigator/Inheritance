@@ -1,3 +1,5 @@
+package Inheritance;
+
 
 /**
  * Commands used for all defensive items

@@ -1,3 +1,5 @@
+package Inheritance;
+
 
 /**
  * This creates an Inventory for a character

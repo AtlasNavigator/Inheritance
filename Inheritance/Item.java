@@ -1,6 +1,8 @@
+package Inheritance;
+
 
 /**
- * Write a description of class Item here.
+ * How brave am I to get involved with Matress Firm?
  * 
  * @author Wiebe 
  * @version 1.2
